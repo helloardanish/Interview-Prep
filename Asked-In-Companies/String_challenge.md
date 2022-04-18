@@ -1,9 +1,11 @@
-/*
+![String Challenge](src/string_challenge.png)
 
 
-CodeByte
 
-Problem - String Challenge
+
+# CodeByte
+
+## Problem - String Challenge
 
 
 Have the function:
@@ -26,12 +28,13 @@ Output : 3
 
 
 
-Instruction : problem should be solved in javaScript only
-
-*/
+*Instruction : problem should be solved in javaScript only*
 
 
 
+
+
+```js
 
 function StringChallenge(strArr){
   // code goes here
@@ -42,11 +45,14 @@ function StringChallenge(strArr){
 //keep this function call here
 console.log(StringChallenge(readline()))
 
+```
 
 
 
 
-// Solution
+### Solution
+
+```js
 
 // solved using binary operation approach of shifitng numbers
 
@@ -69,8 +75,8 @@ function StringChallenge(strArr){
 //keep this function call here
 console.log(StringChallenge(readline()))
 
+```
 
+#### That's it! I passed all the cases!
 
-// That's it! I passed all the cases!
-
-// Happy Coding, A R
+### Happy Coding, A R
