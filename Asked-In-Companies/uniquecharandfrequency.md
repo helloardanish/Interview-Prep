@@ -1,6 +1,6 @@
 ## Problem : Given a string. Find all unique characters and also their frequency(how much time characters are repeated).
 
-###Example:
+### Example:
 
 #### Input : abcad
 #### Output : a:2, b:1, c:1, d:1
