@@ -1,9 +1,10 @@
 ## Replace with the next greatest number. If next greater number not exist, replace with -1.
 
+#### Test Case 1:
 ### input : [4, 5,  2,  25]
 ### output :[5, 25, 25, -1]
 
-
+#### Test Case 2:
 ### input : [11, 13, 21, 3]
 ### output :[13,21,-1,-1]
 
@@ -76,7 +77,7 @@ int main()
 
 #### If you  find minimised solution. Please update. Can't think of minimised solution right now.
 
-#### BarRaiser(:p), NnjaCrt
+#### BarRaiser(:p), NnjaKrt
 
 ## Happy Coding,
 # A R
