@@ -76,6 +76,7 @@ int main()
 
 #### If you  find minimised solution. Please update. Can't think of minimised solution right now.
 
+#### BarRaiser(:p), NnjaCrt
 
 ## Happy Coding,
 # A R
