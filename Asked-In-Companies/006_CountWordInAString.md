@@ -45,7 +45,7 @@ and iterate inside for loop to check if any characters is an special character f
 
 
 ### It is a very easy problem. So easy solution xD.
-
+### You can use builtin method. For C,C++ it is isalnum(),etc.
 
 ## Happy Coding
 # A R
