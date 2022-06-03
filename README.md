@@ -35,6 +35,15 @@
 | Convert a binary number to decimal number | [Python](./Number-Conversion/Bin_To_Dec.ipynb) |
 | Convert a decimal number to binary number | [Python](./Number-Conversion/Dec_To_Bin.ipynb) |
 
+
+## Asked In Companies
+
+| Problems | Solutions |
+| -------- | --------- |
+| Count Unique Characters In A String | [Python](./001_count_unique_char.md) |
+
+
+
 ## Happy Coding
 # A R
 
