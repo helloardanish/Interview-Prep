@@ -41,8 +41,7 @@
 | Problems | Solutions |
 | -------- | --------- |
 | Count Unique Characters In A String | [Python](./001_count_unique_char.md) |
-
-
+|Minimum Value In A List | [Python](./002_min_num_in_list.md )|
 
 ## Happy Coding
 # A R
