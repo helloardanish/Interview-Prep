@@ -1,6 +1,8 @@
 // Search Insert Position
 
 
+
+
 /*
 
 https://leetcode.com/problems/search-insert-position/
@@ -35,3 +37,7 @@ class Solution {
         return s;
     }
 }
+
+
+
+// Ninjakart
