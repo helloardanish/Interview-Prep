@@ -43,6 +43,7 @@
 | Count Unique Characters In A String | [Python](./Asked-In-Companies/001_count_unique_char.md) |
 |Minimum Value In A List | [Python](./Asked-In-Companies/002_min_num_in_list.md )|
 |String Challenge | [Javascript](./Asked-In-Companies/003_String_challenge.md) |
+|Unique Character & Frequency| [C++](./Asked-In-Companies/004_uniquecharandfrequency.md) |
 ## Happy Coding
 # A R
 
