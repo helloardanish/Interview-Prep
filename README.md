@@ -45,6 +45,7 @@
 |String Challenge | [Javascript](./Asked-In-Companies/003_String_challenge.md) |
 |Unique Character & Frequency| [C++](./Asked-In-Companies/004_uniquecharandfrequency.md) |
 |Longest Subsequence| [C++](./Asked-In-Companies/005_longest_subsequence.md) |
+|Count Word In String| [C++](./Asked-In-Companies/006_CountWordInAString.md) |
 ## Happy Coding
 # A R
 
