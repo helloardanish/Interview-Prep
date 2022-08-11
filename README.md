@@ -46,6 +46,7 @@
 |Unique Character & Frequency| [C++](./Asked-In-Companies/004_uniquecharandfrequency.md) |
 |Longest Subsequence| [C++](./Asked-In-Companies/005_longest_subsequence.md) |
 |Count Word In String| [C++](./Asked-In-Companies/006_CountWordInAString.md) |
+|Subset of Array| [C++](./Asked-In-Companies/007_SubsetOfArrayCheck.md) |
 ## Happy Coding
 # A R
 
