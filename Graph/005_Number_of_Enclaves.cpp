@@ -71,5 +71,12 @@ public:
 
 
 
+/*
+Runtime: 98 ms, faster than 50.75% of C++ online submissions for Number of Enclaves.
+Memory Usage: 21.8 MB, less than 56.88% of C++ online submissions for Number of Enclaves.
+*/
+
+
+
 // Happy Coding
 // A R
