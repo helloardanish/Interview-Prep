@@ -47,6 +47,8 @@
 |Longest Subsequence| [C++](./Asked-In-Companies/005_longest_subsequence.md) |
 |Count Word In String| [C++](./Asked-In-Companies/006_CountWordInAString.md) |
 |Subset of Array| [C++](./Asked-In-Companies/007_SubsetOfArrayCheck.md) |
+
+## Need to add other categories
 ## Happy Coding
 # A R
 
