@@ -61,5 +61,15 @@ WHERE rnk = 2;
 // maximum
 SELECT MAX(amount) AS max_amount
 FROM Orders;
+
+
+
+SELECT order_no, amount
+FROM Orders
+WHERE amount = (
+    SELECT MAX(amount)
+    FROM Orders
+);
+
     */
 }
